@@ -1,0 +1,8 @@
+{
+  "name": "Remix Promotion 28",
+  "description": "Back Office Super Executive portal for managing promotion types, rewards, and multi-city campaign configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
